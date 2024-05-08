@@ -16,6 +16,15 @@ if($conn){
 	//mysqli_query($conn,$query2);
 	//mysqli_query($conn,$query3);
 	
+
+	//if(isset($_COOKIES("NAME"])){
+	//echo "welcome ".$_COOKIES["NAME"];
+	//}else{
+	//	echo "no cookies found 404";
+	//	setCookie("NAME","Adamya");
+	//	setCookie("AGE","22");
+	   //  }
+	
 }
 else{
 	echo "failed connection";
